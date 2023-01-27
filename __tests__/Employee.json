@@ -1,0 +1,22 @@
+{
+    "EmployeeID": 0,
+    "EmpFirstName": "Paolo",
+    "EmpLastName": "Avelino",
+    "EmpAddress": "NY",
+    "StateID": 31,
+    "CityID": 2531,
+    "DepartmentID": 1755,
+    "CityObj": {
+      "CityID": 2531,
+      "CityName": "Manhattan1"
+    },
+    "DepartmentObj": {
+      "DepartmentID": 1755,
+      "DepartmentName": "Quality Engineering"
+    },
+    "StateObj": {
+      "StateID": 31,
+      "StateName": "New York",
+      "StateAbbreviation": "NY"
+    }
+  }
